@@ -8,3 +8,4 @@ Contents
 
    about
    join
+   troubleshooting
