@@ -1,7 +1,5 @@
-API
+About the Network
 ===
 
 .. autosummary::
    :toctree: generated
-
-   lumache
