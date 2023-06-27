@@ -1,4 +1,4 @@
-SCION Education, Research and Academic Network - Public Documentation
+SCION Education, Research and Academic Network
 =======================================
 
 Contents
@@ -6,5 +6,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   about
+   join
