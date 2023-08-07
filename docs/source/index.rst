@@ -5,7 +5,7 @@ Welcome to the official documentation to run a SCION AS in the SCION Education, 
 
 Current Deployment Status:
 
-.. image:: images/edunet-overview.png
+.. image:: images/education-isd-as-overview.jpg
   :width: 1920
   :alt: Overview of the SCION Education and Research Network
 
