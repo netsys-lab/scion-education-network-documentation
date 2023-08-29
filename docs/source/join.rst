@@ -1,15 +1,37 @@
 Join the Network
 =====
 
-Connect to GEANT
+To join the SCION Education, Research and Academic, there are several possibilities depending on your location:
+
+Connect to GEANT (EU)
+----------------
+You can connect to the network via setting up a `GEANT plus link <https://www.geant3.archive.geant.org/pages/Services/GEANTPlus.html/>`_, i.e. using one or more dedicated VLANs, to our Points-of-Presence (PoP). 
+
+We currently have 3 productive SCION PoPs:
+
+- Frankfurt - SCION Router 1
+- Paris - SCION Router 1
+- Geneva - SCION Router 1
+
+GEANT will forward the VLAN over the GEANT Plus link as tagged VLAN to the corresponding SCION PoP. You can discuss the VLAN tag with GEANT or you may also do VLAN translation.
+
+You should be able to select them in the GEANT service portal when you request a GEANT Plus circuit:
+
+.. image:: images/GEANT_SCION_PoP.png
+  :width: 1920
+  :alt: Connect to GEANT
+
+Here are `further information about the GEANT Plus Link <https://network.geant.org/wp-content/uploads/2021/11/GEANT-Plus-Service-Description-October-2021.pdf/>`_
+
+Connect to BRIDGES (US)
 ----------------
 
-tbd
+To connect to the network over BRIDGES, please contact us for further information.
 
-Connect to BRIDGES
+Connect to KISTI (ASIA/Global)
 ----------------
+Also a connection over KISTI is possible. Please contact us for further information.
 
-tbd
 
 Install SCION
 ----------------
