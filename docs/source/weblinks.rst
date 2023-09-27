@@ -7,6 +7,7 @@ SCION Related Links:
 * `The SCION Internet <https://scion-architecture.net/>`_
 * `Anapaya Systems <https://www.anapaya.net/>`_
 * `SCION Source Code <https://github.com/scionproto/scion/>`_
+* `SCIONLab Network Documentation <https://docs.scionlab.org/>`_
 
 SCIERA Related Links:
 -----------
