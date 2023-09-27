@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'SCIERA'
+copyright = '2023, Ovgu / ETH'
+author = 'Ovgu Magdeburg, ETH Zurich'
 
 release = '0.1'
 version = '0.1.0'
