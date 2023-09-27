@@ -26,11 +26,11 @@ Here are `further information about the GEANT Plus Link <https://network.geant.o
 Connect to BRIDGES (US)
 ----------------
 
-To connect to the network over BRIDGES, please contact us for further information.
+To connect to the network over BRIDGES, please contact us for further information (marten.gartner@ovgu.de).
 
 Connect to KISTI (ASIA/Global)
 ----------------
-Also a connection over KISTI is possible. Please contact us for further information.
+Also a connection over KISTI is possible. Please contact us for further information (marten.gartner@ovgu.de).
 
 
 Install SCION
