@@ -13,9 +13,14 @@ Contents
 --------
 
 .. toctree::
-
+   :maxdepth: 2
    about
    join
    monitoring
    troubleshooting
    weblinks
+   services/endhost-bootstrap
+   services/dns
+   applications/bittorrent
+   applications/ipfs
+   applications/browser
