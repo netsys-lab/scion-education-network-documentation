@@ -1,5 +1,5 @@
 Join the Network
-=====
+=======================================
 
 To join the SCION Education, Research and Academic, there are several possibilities depending on your location:
 
