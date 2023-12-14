@@ -12,14 +12,8 @@ SCIERA currently spans over three major regions: US, EU and ASIA (under construc
 Contents
 --------
 
-.. toctree::
-  about
-  join
-  monitoring
-  troubleshooting
-  weblinks
-  services/endhost-bootstrap
-  services/dns
-  applications/bittorrent
-  applications/ipfs
-  applications/browser
+..  toctree::
+    :glob:
+    :titlesonly:
+
+    *
