@@ -1,5 +1,5 @@
 SCION Education, Research and Academic Network
-=======================================
+===============================================
 
 Welcome to the official documentation to run your AS in the SCION Education, Research and Academic Network (SCIERA). On this site, you can find information about the network, and how to deploy and run your AS to participate. `SCION <https://scion-architecture.net/>`_ is the first clean-slate Internet architecture designed to provide route control, failure isolation, and explicit trust information for end-to-end communication. Our goal for SCIERA is to connect universities and national research and education networks (NRENs) to provide native SCION connectivity to students and researchers, in an overlay-free, productive network.
 
@@ -17,7 +17,6 @@ Contents
   :caption: The Network
   :hidden: 
 
-  about
   join
   monitoring
   troubleshooting
@@ -30,6 +29,7 @@ Contents
 
   services/dns
   services/endhost-bootstrap
+  services/scion-host
 
 .. toctree::
   :maxdepth: 1
