@@ -21,6 +21,7 @@ Contents
   monitoring
   troubleshooting
   weblinks
+  news
 
 .. toctree::
   :maxdepth: 1
