@@ -3,11 +3,11 @@
 # -- Project information
 
 project = 'SCIERA'
-copyright = '2023, Ovgu / ETH'
-author = 'Ovgu Magdeburg, ETH Zurich'
+copyright = '2024, OVGU / ETHZ'
+author = 'OVGU Magdeburg, ETH Zurich'
 
-release = '0.1'
-version = '0.1.0'
+release = '1.0'
+version = '1.0.0'
 
 # -- General configuration
 
