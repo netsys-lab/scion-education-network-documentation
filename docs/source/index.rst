@@ -41,3 +41,4 @@ Contents
   applications/ipfs
   applications/browser
   applications/hercules
+  applications/echoscion
