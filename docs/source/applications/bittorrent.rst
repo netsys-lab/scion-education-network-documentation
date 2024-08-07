@@ -1,4 +1,6 @@
 BitTorrent over SCION
 =======================================
 
-This site is currently under construction, but we will release it soon. Stay tuned for further updates!
+The BitTorrent over SCION application is a modified BitTorrent client that uses QUIC over SCION as transport protocol.
+
+More information is available here: https://docs.scionlab.org/content/apps/bittorrent.html
