@@ -1,4 +1,6 @@
-SCION Support in the Browser
+SCION Browser Extension
 =======================================
 
-This site is currently under construction, but we will release it soon. Stay tuned for further updates!
+The SCION Browser extension provides access to HTTP(S) resources via SCION by using skip as configured proxy for all SCION-enabled domains.
+
+More information is available here: https://docs.scionlab.org/content/apps/scion-browser.html
