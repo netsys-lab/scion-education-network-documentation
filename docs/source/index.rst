@@ -40,3 +40,4 @@ Contents
   applications/bittorrent
   applications/ipfs
   applications/browser
+  applications/hercules
