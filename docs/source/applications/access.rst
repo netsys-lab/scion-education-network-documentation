@@ -15,6 +15,7 @@ In order to access the SCION production network, your network provider must have
 - Your university or reasearch institution provides SCION connectivity as part of the SCIERA ISD (see `https://sciera.readthedocs.io/en/latest/index.html`).
 
 **Preferred Host configuration**
+
 The easiest way to install and configure the SCION endhost stack is to use the `SCION endhost installer<../services/scion-host>`_.
 
 **Alternative Linux host configuration**
@@ -23,11 +24,13 @@ If your network provider does not provide a SCION bootstrapper service, you can 
 Additionally, you will require a valid configuration from your network provider consisting of `/etc/scion/topology.json` and `/etc/scion/hosts)`.
 
 **Alternative macOS host configuration**
+
 Homebrew support will be added in the future. 
 For now, you can build the SCION endhost stack from source (see `SCION Build<https://docs.scion.org/en/latest/dev/build.html#build>`).
 Depending where you compile the binaries, you may need to specify and `GOOS=darwin` and `GOARCH=amd64` (or your target architecture).
 
 **Alternative Windows host configuration**
+
 You can build the SCION endhost stack from source (see `SCION Build<https://docs.scion.org/en/latest/dev/build.html#build>`).
 Depending where you compile the binaries, you may need to specify and `GOOS=windows` and `GOARCH=amd64` (or your target architecture).
 
@@ -35,7 +38,7 @@ SCIONLab network
 ----------------
 In order to access the SCIONLab network, you must have a SCIONLab account and have set up a SCIONLab node (see `https://docs.scionlab.org/`).
 The SCIONLab node already comes with a SCION endhost stack, meaning that you can run SCION applications directly on the node.
-Otherwise, you can use the SCION endhost installer to install the SCION endhost stack on your host and connect to the SCIONLab node, configuring the necessary network rules for that.
+Otherwise, you can use the SCION endhost installer to install the SCION endhost stack on your host and connect to the SCIONLab node. You can follow the instructions in `SCION production network` adapting the configuration accordingly.
 
 
 Local SCION network for development
