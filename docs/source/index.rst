@@ -9,9 +9,6 @@ SCIERA currently spans over five regions: EU, ASIA, North and South America, as 
   :width: 1920
   :alt: Overview of the SCION Education and Research Network
 
-Contents
---------
-
 .. toctree::
   :maxdepth: 1
   :caption: SCIERA
