@@ -19,16 +19,8 @@ Contents
 
   join
   applications
+  services
   monitoring
   troubleshooting
   weblinks
   news
-
-.. toctree::
-  :maxdepth: 1
-  :caption: Services
-  :hidden: 
-
-  services/dns
-  services/endhost-bootstrap
-  services/scion-host
