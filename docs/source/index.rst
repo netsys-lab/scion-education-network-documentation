@@ -14,7 +14,7 @@ Contents
 
 .. toctree::
   :maxdepth: 1
-  :caption: The Network
+  :caption: SCIERA
   :hidden: 
 
   join
