@@ -1,4 +1,4 @@
-Setup Monitoring and Alerting for your AS
+AS Monitoring and Alerting
 =======================================
 
 Open-Source Stack
