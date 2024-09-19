@@ -18,6 +18,7 @@ Contents
   :hidden: 
 
   join
+  applications
   monitoring
   troubleshooting
   weblinks
@@ -31,14 +32,3 @@ Contents
   services/dns
   services/endhost-bootstrap
   services/scion-host
-
-.. toctree::
-  :maxdepth: 1
-  :caption: Applications
-  :hidden: 
-
-  applications/bittorrent
-  applications/ipfs
-  applications/browser
-  applications/hercules
-  applications/echoscion
