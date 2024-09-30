@@ -9,7 +9,7 @@ We're launching a new series of weekly meetings to discuss research topics aroun
 The meetings take place every week and last around 30min. To accomodate participation of SCION researchers from all around the world, the meeting time alternates every other week:
 
 - *Even* weeks: Tuesday 9 am CET, 4 pm KST 
-- *Odd* weeks: Tuesday 5 pm CET, 8 am PT
+- *Odd* weeks: xxx 5 pm CET, 8 am PT
 
 Please check out our `meeting calendar <https://calendar.google.com/calendar/embed?src=939a1986f2053f25f1b4b47c14b69f30137b8549637c5a806fee816be68535ea%40group.calendar.google.com&ctz=Europe%2FZurich>`_ for the upcoming SCION research meetings.
 
