@@ -13,7 +13,7 @@ The meetings take place every week and last around 30min. To accomodate particip
 
 Please check out our `meeting calendar <https://calendar.google.com/calendar/embed?src=939a1986f2053f25f1b4b47c14b69f30137b8549637c5a806fee816be68535ea%40group.calendar.google.com&ctz=Europe%2FZurich>`_ for the upcoming SCION research meetings.
 
-To receive meeting announcements, you may also subscribe to our `SCION research mailing list <https://lists.inf.ethz.ch/mailman/listinfo/scion-research>`_.
+To receive meeting announcements, please subscribe to our `SCION research mailing list <https://lists.inf.ethz.ch/mailman/listinfo/scion-research>`_.
 
 The SCION research meetings are open for anyone interested in discussing research topics related to SCION, including but not limited to:
 
@@ -33,7 +33,7 @@ If you are interested to present your SCION research work during one of the upco
 
 Talk proposals will be reviewed by a review committee.
 
-Talks usually last max. 15 min, leaving 15 min for discussion.
+Talks usually last 10-15 minutes, leaving 15-20 minutes for discussion.
 
 For questions or comments, please contact:
 
