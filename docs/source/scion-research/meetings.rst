@@ -14,6 +14,7 @@ Please check out our `meeting calendar <https://calendar.google.com/calendar/emb
    
    <iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=1&ctz=Europe%2FZurich&bgcolor=%23ffffff&mode=AGENDA&showTitle=0&showNav=0&showDate=0&showPrint=0&showTabs=0&showCalendars=0&src=OTM5YTE5ODZmMjA1M2YyNWYxYjRiNDdjMTRiNjlmMzAxMzdiODU0OTYzN2M1YTgwNmZlZTgxNmJlNjg1MzVlYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26" style="border:solid 1px #777" width="700" height="400" frameborder="0" scrolling="no"></iframe>
 
+
 To receive meeting announcements, please subscribe to our `SCION research mailing list <https://lists.inf.ethz.ch/mailman/listinfo/scion-research>`_.
 
 The SCION research meetings are open for anyone interested in discussing research topics related to SCION, including but not limited to:
