@@ -5,7 +5,7 @@ With the growing global community of researchers working on SCION-related topics
 
 .. raw:: html
    
-   <iframe src="https://calendar.google.com/calendar/embed?src=939a1986f2053f25f1b4b47c14b69f30137b8549637c5a806fee816be68535ea%40group.calendar.google.com&ctz=Europe%2FZurich" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+   <iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=1&ctz=Europe%2FZurich&bgcolor=%23ffffff&mode=AGENDA&showTitle=0&showNav=0&showDate=0&showPrint=0&showTabs=0&showCalendars=0&src=OTM5YTE5ODZmMjA1M2YyNWYxYjRiNDdjMTRiNjlmMzAxMzdiODU0OTYzN2M1YTgwNmZlZTgxNmJlNjg1MzVlYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26" style="border:solid 1px #777" width="700" height="400" frameborder="0" scrolling="no"></iframe>
 
 The meetings take place every week and last around 30min. To accomodate participation of SCION researchers from all around the world, the meeting time alternates every other week:
 
