@@ -36,7 +36,7 @@ Talk proposals will be reviewed by a review committee.
 
 Talks usually last 10-15 minutes, leaving 15-20 minutes for discussion.
 
-For questions or comments, please contact:
+For questions or comments, please `contact <mailto:aperrig@inf.ethz.ch,hausheer@ovgu.de?subject=SCION%20Research%20Meeting>`_:
 
 - Adrian Perrig, ETH Zurich, Switzerland
 - David Hausheer, OVGU Magdeburg, Germany
