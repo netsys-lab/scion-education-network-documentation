@@ -8,7 +8,7 @@ The meetings take place every week and usually last around 30min. To accomodate 
 - *Even* weeks: Tuesday 9am CET, 3pm CST, 4pm KST / JST, (12am PT) 
 - *Odd* weeks: Wednesday 5pm CET, 8am PT, 11am ET, 12pm BRT, (11pm CST, 12am KST / JST)
 
-Please check out our `meeting calendar <https://calendar.google.com/calendar/embed?height=400&wkst=1&ctz=Europe%2FZurich&bgcolor=%23ffffff&mode=AGENDA&showTitle=0&showNav=0&showDate=0&showPrint=0&showTabs=0&showCalendars=0&src=OTM5YTE5ODZmMjA1M2YyNWYxYjRiNDdjMTRiNjlmMzAxMzdiODU0OTYzN2M1YTgwNmZlZTgxNmJlNjg1MzVlYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26>`_ for the upcoming SCION research meetings:
+Please check out our `meeting calendar <https://calendar.google.com/calendar/u/0?cid=OTM5YTE5ODZmMjA1M2YyNWYxYjRiNDdjMTRiNjlmMzAxMzdiODU0OTYzN2M1YTgwNmZlZTgxNmJlNjg1MzVlYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t>`_ for the upcoming SCION research meetings:
 
 .. raw:: html
    
