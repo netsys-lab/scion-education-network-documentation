@@ -3,16 +3,16 @@ SCION Research Meetings
 
 With the growing global community of researchers working on SCION-related topics and the steadily increasing deployment of the SCION infrastructure, we are starting a weekly research meeting inviting all interested researchers to participate. We will be discussing current research results, as well as promising future directions.
 
-.. raw:: html
-   
-   <iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=1&ctz=Europe%2FZurich&bgcolor=%23ffffff&mode=AGENDA&showTitle=0&showNav=0&showDate=0&showPrint=0&showTabs=0&showCalendars=0&src=OTM5YTE5ODZmMjA1M2YyNWYxYjRiNDdjMTRiNjlmMzAxMzdiODU0OTYzN2M1YTgwNmZlZTgxNmJlNjg1MzVlYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26" style="border:solid 1px #777" width="700" height="400" frameborder="0" scrolling="no"></iframe>
-
-The meetings take place every week and last around 30min. To accomodate participation of SCION researchers from all around the world, the meeting time alternates every other week:
+The meetings take place every week and last usually around 30min. To accomodate participation of SCION researchers from all around the world, the meeting time alternates every other week:
 
 - *Even* weeks: Tuesday 9am CET, 3pm CST, 4pm KST / JST, (12am PT) 
 - *Odd* weeks: Wednesday 5pm CET, 8am PT, 11am ET, 12pm BRT, (11pm CST, 12am KST / JST)
 
-Please check out our `meeting calendar <https://calendar.google.com/calendar/embed?src=939a1986f2053f25f1b4b47c14b69f30137b8549637c5a806fee816be68535ea%40group.calendar.google.com&ctz=Europe%2FZurich>`_ for the upcoming SCION research meetings.
+Please check out our `meeting calendar <https://calendar.google.com/calendar/embed?height=400&wkst=1&ctz=Europe%2FZurich&bgcolor=%23ffffff&mode=AGENDA&showTitle=0&showNav=0&showDate=0&showPrint=0&showTabs=0&showCalendars=0&src=OTM5YTE5ODZmMjA1M2YyNWYxYjRiNDdjMTRiNjlmMzAxMzdiODU0OTYzN2M1YTgwNmZlZTgxNmJlNjg1MzVlYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26>`_ for the upcoming SCION research meetings:
+
+.. raw:: html
+   
+   <iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=1&ctz=Europe%2FZurich&bgcolor=%23ffffff&mode=AGENDA&showTitle=0&showNav=0&showDate=0&showPrint=0&showTabs=0&showCalendars=0&src=OTM5YTE5ODZmMjA1M2YyNWYxYjRiNDdjMTRiNjlmMzAxMzdiODU0OTYzN2M1YTgwNmZlZTgxNmJlNjg1MzVlYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26" style="border:solid 1px #777" width="700" height="400" frameborder="0" scrolling="no"></iframe>
 
 To receive meeting announcements, please subscribe to our `SCION research mailing list <https://lists.inf.ethz.ch/mailman/listinfo/scion-research>`_.
 
