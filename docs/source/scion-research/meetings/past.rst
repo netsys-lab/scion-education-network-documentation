@@ -36,5 +36,5 @@ We keep an archive of past meetings:
       - Marc Wyss (ETH Zurich)
       - `MP4 Video <https://polybox.ethz.ch/index.php/s/VigRd58aNoCbO9Y>`__
       - 
-      - `PDF <https://netsec.ethz.ch/publications/papers/2023_usenix_fabrid.pdf>`__ 
+      - `PDF <https://netsec.ethz.ch/publications/papers/2023_usenix_fabrid.pdf>`__, 
         `Extended Version <https://arxiv.org/pdf/2304.03108>`__ 
