@@ -1,7 +1,7 @@
-Past SCION Research Meetings
+Past Meetings
 ============================
 
-We keep an archive of past meetings:
+We keep an archive of past SCION research meetings:
 
 .. list-table:: 
     :widths: 6 1 2 1 1 1
