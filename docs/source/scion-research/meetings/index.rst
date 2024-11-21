@@ -48,4 +48,4 @@ For questions or comments, please `contact <mailto:aperrig@inf.ethz.ch,hausheer@
    :caption: Past Meetings
    :hidden:
 
-   meetings/past.rst
+   past
