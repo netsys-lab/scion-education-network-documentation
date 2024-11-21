@@ -1,4 +1,4 @@
-Past Meetings
+Past SCION Research Meetings
 ============================
 
 We keep an archive of past meetings video recordings,
