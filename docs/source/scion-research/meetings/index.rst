@@ -45,7 +45,6 @@ For questions or comments, please `contact <mailto:aperrig@inf.ethz.ch,hausheer@
 
 .. toctree::
    :maxdepth: 1
-   :caption: Past Meetings
    :hidden:
 
    past
