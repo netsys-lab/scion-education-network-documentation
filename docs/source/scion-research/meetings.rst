@@ -42,3 +42,8 @@ For questions or comments, please `contact <mailto:aperrig@inf.ethz.ch,hausheer@
 - Adrian Perrig, ETH Zurich, Switzerland
 - David Hausheer, OVGU Magdeburg, Germany
 - Juan A. García-Pardo, ETH Zurich, Switzerland
+
+.. toctree::
+   :maxdepth: 3
+
+   meetings/past.rst
