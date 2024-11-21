@@ -44,6 +44,8 @@ For questions or comments, please `contact <mailto:aperrig@inf.ethz.ch,hausheer@
 - Juan A. García-Pardo, ETH Zurich, Switzerland
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
+   :caption: Past Meetings
+   :hidden:
 
    meetings/past.rst
