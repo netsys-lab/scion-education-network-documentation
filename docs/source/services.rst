@@ -100,6 +100,7 @@ If your AS is not in the list, please contact us.
         </select>
         
         <button id="navigate-button">Get SCION!</button>
+        <br/>
     </div>
 
     <script>
