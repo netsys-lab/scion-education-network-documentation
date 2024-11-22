@@ -39,13 +39,11 @@ To bootstrap into a SCIERA AS that has a bootstrap server running, choose from t
 
 If your AS is not in the list, please contact us.
 
-This example demonstrates two dropdowns and a button to navigate to a selected configuration.
-
 .. raw:: html
 
-    <div id="config-selector" style="margin-top: 20px;">
+    <div id="config-selector">
         <style>
-            /* Basic styling for select elements */
+            /* Basic styling for select elements */ 
             #select1, #select2 {
                 padding: 10px;
                 font-size: 14px;
@@ -77,6 +75,7 @@ This example demonstrates two dropdowns and a button to navigate to a selected c
                 margin-right: 5px;
                 font-size: 14px;
                 font-weight: bold;
+                margin-top: 25px;
             }
 
             #config-selector {
@@ -84,6 +83,7 @@ This example demonstrates two dropdowns and a button to navigate to a selected c
                 align-items: center;
                 gap: 10px;
                 flex-wrap: wrap;
+                flex-flow: column;
             }
         </style>
 
@@ -98,7 +98,7 @@ This example demonstrates two dropdowns and a button to navigate to a selected c
             <option value="linux_amd64">Linux (amd64)</option>
             <option value="windows_amd64">Windows (amd64)</option>
         </select>
-        <br />
+        
         <button id="navigate-button">Get SCION!</button>
     </div>
 
