@@ -44,6 +44,49 @@ This example demonstrates two dropdowns and a button to navigate to a selected c
 .. raw:: html
 
     <div id="config-selector" style="margin-top: 20px;">
+        <style>
+            /* Basic styling for select elements */
+            #select1, #select2 {
+                padding: 10px;
+                font-size: 14px;
+                border: 1px solid #ccc;
+                border-radius: 5px;
+                margin-right: 10px;
+                width: 150px;
+            }
+
+            /* Styling for the button */
+            #navigate-button {
+                padding: 10px 20px;
+                font-size: 14px;
+                color: white;
+                background-color: #007BFF;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+                transition: background-color 0.3s ease;
+            }
+
+            /* Hover effect for the button */
+            #navigate-button:hover {
+                background-color: #0056b3;
+            }
+
+            /* Add some spacing and alignment */
+            label {
+                margin-right: 5px;
+                font-size: 14px;
+                font-weight: bold;
+            }
+
+            #config-selector {
+                display: flex;
+                align-items: center;
+                gap: 10px;
+                flex-wrap: wrap;
+            }
+        </style>
+
         <label for="select1">SCIERA Autonomous System</label>
         <select id="select1" style="margin-right: 10px;">
             <option value="uva">71-225 (UVA)</option>
@@ -55,7 +98,7 @@ This example demonstrates two dropdowns and a button to navigate to a selected c
             <option value="linux_amd64">Linux (amd64)</option>
             <option value="windows_amd64">Windows (amd64)</option>
         </select>
-
+        <br />
         <button id="navigate-button">Get SCION!</button>
     </div>
 
