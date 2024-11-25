@@ -17,7 +17,12 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    # Based on https://stackoverflow.com/a/73210637/817736 :
+    'sphinx_rtd_size',
 ]
+
+# Based on https://stackoverflow.com/a/73210637/817736 :
+sphinx_rtd_size_width = "90%"
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
