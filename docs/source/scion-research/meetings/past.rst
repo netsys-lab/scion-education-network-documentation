@@ -37,4 +37,10 @@ We keep an archive of past SCION research meetings:
       - Inter-domain Path Validation, Source Authentication, and Fine-grained Path Control  
       - Marc Wyss (ETH Zurich)
       - `PDF <https://netsec.ethz.ch/publications/papers/2023_usenix_fabrid.pdf>`__, 
-        `Extended Version <https://arxiv.org/pdf/2304.03108>`__ 
+        `Extended Version <https://arxiv.org/pdf/2304.03108>`__
+    * - 26.11.2024
+      -
+      - `PDF <https://drive.google.com/file/d/1FL77sQgzJmYuatEPJqHXnW8E6UQRA-iD/view>`__
+      - SCION for DNS and DNS for SCION
+      - Huayi Duan (ETH Zurich)
+      -
