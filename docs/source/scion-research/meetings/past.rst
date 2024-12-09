@@ -44,3 +44,9 @@ We keep an archive of past SCION research meetings:
       - SCION for DNS and DNS for SCION
       - Huayi Duan (ETH Zurich)
       -
+    * - 04.12.2024
+      - `MP4 <https://drive.google.com/file/d/1qa3YxjEnWiA1xWQTdFTDNvkz6BthPpMm/view>`__
+      - `PDF <https://drive.google.com/file/d/1_sC01hnqeTEBivsWKbP3e6X07uYrhsKM/view>`__
+      - Clockwire: Secure and Dependable Clock Synchronization on SCION
+      - Marc Frei (ETH Zurich)
+      -
