@@ -50,3 +50,9 @@ We keep an archive of past SCION research meetings:
       - Clockwire: Secure and Dependable Clock Synchronization on SCION
       - Marc Frei (ETH Zurich)
       -
+    * - 10.12.2024
+      - `MP4 <https://drive.google.com/file/d/1Qiv0NCgv6NBHDQpcqpcm-DQskTsoes0Q/view>`__
+      - `PDF <https://drive.google.com/file/d/1DMVU0zpwRi49I4XiER9TP1Y6grCGi2qC/view>`__
+      - Secure In-Band Network Telemetry for the SCION Internet Architecture
+      - Lars Christian Schulz (OVGU Magdeburg)
+      - `PDF <https://opendl.ifip-tc6.org/db/conf/cnsm/cnsm2024/1571050975.pdf>`__
