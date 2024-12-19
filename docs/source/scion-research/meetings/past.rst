@@ -27,7 +27,7 @@ We keep an archive of past SCION research meetings:
       - `PDF <https://dl.acm.org/doi/10.1145/3672197.3673437>`__
     * - 12.11.2024
       -
-      -
+      - `PDF <https://drive.google.com/file/d/1K746v6IJXeFf4AK-ldFHWS-bvE0pQ_VH/view>`__
       - UMCC: Uncoupling Multipath Congestion Control through Shared Bottleneck Detection in Path-Aware Networks
       - Marten Gartner (OVGU Magdeburg)
       - `PDF <https://ieeexplore.ieee.org/abstract/document/10639760>`__
