@@ -56,3 +56,9 @@ We keep an archive of past SCION research meetings:
       - Secure In-Band Network Telemetry for the SCION Internet Architecture
       - Lars Christian Schulz (OVGU Magdeburg)
       - `PDF <https://opendl.ifip-tc6.org/db/conf/cnsm/cnsm2024/1571050975.pdf>`__
+    * - 18.12.2024
+      - `MP4 <https://drive.google.com/file/d/1DuXSfWbdewO3L6yaUIJqJ-s4omnTZVva/view>`__
+      - `PDF <https://drive.google.com/file/d/1dhD5-7tM1FGL5N3XXhLgaZS1gJmKsYsY/view>`__
+      - DMTP: Deadline-aware Multipath Transport Protocol
+      - Tony John (OVGU Magdeburg)
+      - `PDF <https://ieeexplore.ieee.org/document/10186417>`__
