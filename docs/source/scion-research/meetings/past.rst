@@ -64,13 +64,13 @@ We keep an archive of past SCION research meetings:
       - `PDF <https://ieeexplore.ieee.org/document/10186417>`__
     * - 07.01.2024
       - `MP4 <https://drive.google.com/file/d/1c0OHpkUafYKn71Dg57ETXrddiXEGRYmP/view>`__
-      - `PDF missing <todo>`__
+      -
       - New SCION Beaconing Approach
       - Seyedali Tabaeiaghdaei (ETH Zurich)
       -
     * - 15.01.2024
       - `MP4 <https://drive.google.com/file/d/1OtJX2k-44m_F-mf0Lbh4-ItAssCG8HQs/view>`__
-      - `PDF missing <todo>`__
+      - `PDF <https://drive.google.com/file/d/1e_wppQqFQrFj6KX8j2TTxv9ubX7oeRtp/view>`__
       - NDN + SCION
       - Ken Calvert (University of Kentucky)
       - `PDF <https://drive.google.com/file/d/12aSfu80FYYpsXH9Vc1GBUSOn9bmXKGNy/view>`__
