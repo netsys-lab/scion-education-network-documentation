@@ -62,3 +62,15 @@ We keep an archive of past SCION research meetings:
       - DMTP: Deadline-aware Multipath Transport Protocol
       - Tony John (OVGU Magdeburg)
       - `PDF <https://ieeexplore.ieee.org/document/10186417>`__
+    * - 07.01.2025
+      - 
+      - 
+      - New SCION Beaconing Approach
+      - Seyedali Tabaeiaghdaei (ETH Zurich)
+      - 
+    * - 15.01.2025
+      - 
+      - 
+      - NDN+SCION: Global Name-based Routing
+      - Ken Calvert (University of Kentucky)
+      - `PDF <https://dl.acm.org/doi/10.1145/3623565.3623716>`__
