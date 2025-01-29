@@ -75,3 +75,9 @@ We keep an archive of past SCION research meetings:
       - Ken Calvert (University of Kentucky)
       - `PDF <https://drive.google.com/file/d/12aSfu80FYYpsXH9Vc1GBUSOn9bmXKGNy/view>`__.
         `PDF <https://dl.acm.org/doi/10.1145/3623565.3623716>`__
+    * - 21.01.2024
+      - `MP4 <https://drive.google.com/file/d/1hMCJyTN_d6x8Vm87dQC_a0GrAsz0UnkB/view>`__
+      -
+      - SCION bootstrapping process and more
+      - François Wirz (ETH Zurich)
+      -
