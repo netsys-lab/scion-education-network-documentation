@@ -5,7 +5,7 @@ Welcome to the official documentation to run your AS in the SCION Education, Res
 
 SCIERA currently spans over five regions: EU, ASIA, North and South America, as well as Africa (under construction). Major regions are represented by one core-AS and connect multiple research entities running their own ASes. SCIERA is also connected to `Anapaya's Production Network <https://www.anapaya.net/>`_ through ISD 64. The current deployment status of SCIERA is the following:
 
-.. image:: images/education-isd-as-overview.jpg
+.. image:: images/edunet-topo.png
   :width: 1920
   :alt: Overview of the SCION Education and Research Network
 
