@@ -81,3 +81,9 @@ We keep an archive of past SCION research meetings:
       - SCION bootstrapping process and more
       - François Wirz (ETH Zurich)
       -
+    * - 29.01.2024
+      - `MP4 <https://drive.google.com/file/d/1VuQXjl3ektxA5b1Q7mTVchp69-99uzGP/view>`__
+      -
+      - BRIDGES
+      - Jerry Sobiesky (George Mason University)
+      -
