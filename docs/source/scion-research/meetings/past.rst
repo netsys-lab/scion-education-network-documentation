@@ -62,26 +62,26 @@ We keep an archive of past SCION research meetings:
       - DMTP: Deadline-aware Multipath Transport Protocol
       - Tony John (OVGU Magdeburg)
       - `PDF <https://ieeexplore.ieee.org/document/10186417>`__
-    * - 07.01.2024
+    * - 07.01.2025
       - `MP4 <https://drive.google.com/file/d/1c0OHpkUafYKn71Dg57ETXrddiXEGRYmP/view>`__
       - `PDF <https://drive.google.com/file/d/1J8cnBMboV_cthP2PRAMCrIvreW2zajK5/view>`__
       - New SCION Beaconing Approach
       - Seyedali Tabaeiaghdaei (ETH Zurich)
       - `PDF <https://netsec.ethz.ch/publications/papers/IREC_arXiv.pdf>`__
-    * - 15.01.2024
+    * - 15.01.2025
       - `MP4 <https://drive.google.com/file/d/1OtJX2k-44m_F-mf0Lbh4-ItAssCG8HQs/view>`__
       - `PDF <https://drive.google.com/file/d/1e_wppQqFQrFj6KX8j2TTxv9ubX7oeRtp/view>`__
       - NDN + SCION
       - Ken Calvert (University of Kentucky)
       - `PDF <https://drive.google.com/file/d/12aSfu80FYYpsXH9Vc1GBUSOn9bmXKGNy/view>`__.
         `PDF <https://dl.acm.org/doi/10.1145/3623565.3623716>`__
-    * - 21.01.2024
+    * - 21.01.2025
       - `MP4 <https://drive.google.com/file/d/1hMCJyTN_d6x8Vm87dQC_a0GrAsz0UnkB/view>`__
       -
       - SCION bootstrapping process and more
       - François Wirz (ETH Zurich)
       -
-    * - 29.01.2024
+    * - 29.01.2025
       - `MP4 <https://drive.google.com/file/d/1VuQXjl3ektxA5b1Q7mTVchp69-99uzGP/view>`__
       -
       - BRIDGES
