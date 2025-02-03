@@ -85,5 +85,5 @@ We keep an archive of past SCION research meetings:
       - `MP4 <https://drive.google.com/file/d/1VuQXjl3ektxA5b1Q7mTVchp69-99uzGP/view>`__
       -
       - BRIDGES
-      - Jerry Sobiesky (George Mason University)
+      - Jerry Sobieski (George Mason University)
       -
