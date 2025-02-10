@@ -5,7 +5,7 @@ To join the SCION Education, Research and Academic, there are several possibilit
 
 Connect to GEANT (EU)
 ----------------
-You can connect to the network via setting up a `GEANT plus link <https://www.geant3.archive.geant.org/pages/Services/GEANTPlus.html/>`_, i.e. using one or more dedicated VLANs, to our Points-of-Presence (PoP). 
+You can connect to the network via setting up a `GEANT plus link <https://www.geant3.archive.geant.org/pages/Services/GEANTPlus.html>`_, i.e. using one or more dedicated VLANs, to our Points-of-Presence (PoP). 
 
 We currently have 3 productive SCION PoPs:
 
