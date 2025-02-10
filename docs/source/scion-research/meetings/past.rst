@@ -88,7 +88,7 @@ We keep an archive of past SCION research meetings:
       - Jerry Sobieski (George Mason University)
       -
     * - 04.02.2025
-      - `MP4 <https://drive.google.com/file/d/1aeidFxa5uPyMftY_6gOupuN7zk71QNhA/view>`__
+      - `MP4 <https://drive.google.com/file/d/1hlTJ1XAvDwnaRE0XM9Ir_SviSrJfLVch/view>`__
       - `PDF <https://drive.google.com/file/d/17CLLLWeOSwWxCJtpgM5FN0OHqwmDI8-q/view>`__
       - SCION Go Applications and Jingleping
       - Jelte van Bommel (ETH Zurich)
