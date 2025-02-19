@@ -83,7 +83,7 @@ We keep an archive of past SCION research meetings:
       -
     * - 29.01.2025
       - `MP4 <https://drive.google.com/file/d/1VuQXjl3ektxA5b1Q7mTVchp69-99uzGP/view>`__
-      -
+      - `PPTX <https://docs.google.com/presentation/d/1HtLl72N0zm3W-YihqZYEwVETOsLJmVWc/view>`__
       - BRIDGES
       - Jerry Sobieski (George Mason University)
       -
