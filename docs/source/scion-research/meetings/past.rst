@@ -93,3 +93,15 @@ We keep an archive of past SCION research meetings:
       - SCION Go Applications and Jingleping
       - Jelte van Bommel (ETH Zurich)
       -
+    * - 12.02.2025
+      - `MP4 <https://drive.google.com/file/d/1yVUPMUC2kwsbcD28a6BMicQcG8mJfoni/view>`__
+      -
+      - Internet Architecture Evolution: Found in Translation
+      - Fernando Ramos (University of Lisbon)
+      -
+    * - 18.02.2025
+      - `MP4 <https://drive.google.com/file/d/1VjND0ShldQt-UaWxsBQpKRvE-AjkWacS/view>`__
+      - `PDF <https://drive.google.com/file/d/16WEuymDBHges_qouX-1Mj_gbTDjJR8AB/view>`__
+      - JPAN - Java API for path aware networking with SCION
+      - Tilmann Zäschke (ETH Zurich)
+      -
