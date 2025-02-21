@@ -20,10 +20,11 @@ The alternative way to setup the bootstrapping server without the scion-orchestr
 
 Once the bootstrap-server is set up, please follow the guide on SCION Endhost Installers to bootstrap SCION on your endhosts.
 
+.. _scion-endhost-installer:
 SCION Endhost Installer
 ----------------
 
-The scion-orchestrator facilitates the setup of SCION on pure endhosts, to achieve native SCION connectivity. 
+The scion-orchestrator facilitates the setup of SCION on pure endhosts, to achieve native SCION connectivity.
 
 * Installation of the SCION Binaries onto the machine.
 * Connect to the given bootstrap-server to fetch a SCION configuration.
@@ -32,7 +33,7 @@ The scion-orchestrator facilitates the setup of SCION on pure endhosts, to achie
 So far we provide preliminary support to run SCION on the following operating systems:
 
 * Linux (amd64)
-* Windows (amd64) 
+* Windows (amd64)
 
 
 To bootstrap into a SCIERA AS that has a bootstrap server running, choose from the following list of options to find your AS and operating system.
@@ -43,7 +44,7 @@ If your AS is not in the list, please contact us.
 
     <div id="config-selector">
         <style>
-            /* Basic styling for select elements */ 
+            /* Basic styling for select elements */
             #select1, #select2 {
                 padding: 10px;
                 font-size: 14px;
@@ -98,7 +99,7 @@ If your AS is not in the list, please contact us.
             <option value="linux_amd64">Linux (amd64)</option>
             <option value="windows_amd64">Windows (amd64)</option>
         </select>
-        
+
         <button id="navigate-button">Get SCION!</button>
         <br/>
     </div>
@@ -133,4 +134,3 @@ If your AS is not in the list, please contact us.
 To run SCION on your endhost, please follow the following steps as depicted `here <https://github.com/netsys-lab/scion-orchestrator-releases>`_.
 
 To manually run a scion bootstrapper without the orchestrator, refer to the bootstrapper repositories: `Code <https://github.com/netsec-ethz/bootstrapper>`_, `Design <https://github.com/scionproto/scion/blob/master/doc/dev/design/endhost-bootstrap.rst>`_
-
