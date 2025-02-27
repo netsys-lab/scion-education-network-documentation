@@ -12,7 +12,7 @@ SCIERA currently spans over five regions: EU, ASIA, North and South America, as 
 .. toctree::
   :maxdepth: 1
   :caption: SCIERA
-  :hidden: 
+  :hidden:
 
   join
   applications
@@ -21,6 +21,13 @@ SCIERA currently spans over five regions: EU, ASIA, North and South America, as 
   troubleshooting
   weblinks
   news
+
+.. toctree::
+  :maxdepth: 1
+  :caption: Tips & Tricks
+  :hidden:
+
+  tips-and-tricks/windows-hosts/index.rst
 
 .. toctree::
   :maxdepth: 1
