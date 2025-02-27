@@ -105,3 +105,9 @@ We keep an archive of past SCION research meetings:
       - JPAN - Java API for path aware networking with SCION
       - Tilmann Zäschke (ETH Zurich)
       -
+    * - 26.02.2025
+      - `MP4 <https://drive.google.com/file/d/1-kRIK6MUO9JyrMSdwAADbITYg_44cKKb/view>`__
+      - `PDF <https://drive.google.com/file/d/1D-csaA7kEv0jgv3GJtdG0c7bVN55bLFN/view>`__
+      - WWW SCION
+      - Jordi Subirà (ETH Zurich)
+      -
