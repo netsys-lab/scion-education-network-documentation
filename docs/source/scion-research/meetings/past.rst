@@ -111,3 +111,9 @@ We keep an archive of past SCION research meetings:
       - WWW SCION
       - Jordi Subirà (ETH Zurich)
       -
+    * - 04.03.2025
+      - `MP4 <https://drive.google.com/file/d/1lD-3NkGx3tyVx-0595RXcvveGriyWVIh/view>`__
+      - `PDF <https://drive.google.com/file/d/1hsQpG1ABI3JEjRP87ic3kjxg4IyCn6ik/view>`__
+      - The SCION Connection at the Singapore-ETH Centre
+      - Felix Kottmann (Singapore-ETH Centre), Simon Green (SingAREN)
+      -
