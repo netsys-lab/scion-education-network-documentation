@@ -117,3 +117,9 @@ We keep an archive of past SCION research meetings:
       - The SCION Connection at the Singapore-ETH Centre
       - Felix Kottmann (Singapore-ETH Centre), Simon Green (SingAREN)
       -
+    * - 12.03.2025
+      - `MP4 <https://drive.google.com/file/d/1jbb0EvX4shpfQRxV2kAMWlMIz_7rZXIk/view>`__
+      - `PDF <https://drive.google.com/file/d/1mito4tCSg6vHpZ710BDao2vwrLoZIWZ8/view>`__
+      - PreAcher: Secure and Practical Password Pre-Authentication by CDNs
+      - Shihan Lin (Duke University)
+      - `PDF <https://drive.google.com/file/d/1WicT6xFZyGJ12AGmpRFlQxNQN6x_QW0T/view>`__
