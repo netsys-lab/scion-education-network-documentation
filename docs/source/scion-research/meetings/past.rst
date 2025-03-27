@@ -123,7 +123,7 @@ We keep an archive of past SCION research meetings:
       - PreAcher: Secure and Practical Password Pre-Authentication by CDNs
       - Shihan Lin (Duke University)
       - `PDF <https://drive.google.com/file/d/1WicT6xFZyGJ12AGmpRFlQxNQN6x_QW0T/view>`__
-    * - .03.2025
+    * - 18.03.2025
       - `MP4 <https://drive.google.com/file/d/1xneTEhodFB74dB6zJCAk2gbxyvevqjCx/view>`__
       -
       - SCION Orchestrator
