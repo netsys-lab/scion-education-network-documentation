@@ -129,3 +129,9 @@ We keep an archive of past SCION research meetings:
       - SCION Orchestrator
       - Marten Gartner (OVGU Magdeburg)
       -
+    * - 26.03.2025
+      - `MP4 <https://drive.google.com/file/d/1dqpLws0bJtyRZokyvVwye4OtjB6Wwvv-/view>`__
+      - `PDF <https://drive.google.com/file/d/15ReAb7EdIUiJo6yZh3QPLToKZWKSZc1u/view>`__
+      - SCION Help - Retrieval Augmented Generation Pipeline for a SCION Expert Chat Application
+      - Tony John (OVGU Magdeburg)
+      - `SCION Help <https://scion-help.ovgu.de/>`__
