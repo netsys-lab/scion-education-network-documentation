@@ -95,7 +95,7 @@ We keep an archive of past SCION research meetings:
       -
     * - 12.02.2025
       - `MP4 <https://drive.google.com/file/d/1yVUPMUC2kwsbcD28a6BMicQcG8mJfoni/view>`__
-      -
+      - `PDF <https://drive.google.com/file/d/1ByYnyhip0zCaCmWyvkZ3lSWkC-9JhEp5/view>`__
       - Internet Architecture Evolution: Found in Translation
       - Fernando Ramos (University of Lisbon)
       -
