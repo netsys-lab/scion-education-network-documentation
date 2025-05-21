@@ -135,3 +135,21 @@ We keep an archive of past SCION research meetings:
       - SCION Help - Retrieval Augmented Generation Pipeline for a SCION Expert Chat Application
       - Tony John (OVGU Magdeburg)
       - `SCION Help <https://scion-help.ovgu.de/>`__
+    * - 15.04.2025
+      -
+      -
+      - SCION Standardization
+      - SCION Association
+      - `scion.org <https://scion.org>`__
+    * - 29.04.2025
+      -
+      -
+      - Use of Reinforcement Learning for the purpose of Path Selection
+      - Mazahir Hussain (KISTI)
+      -
+    * - 13.05.2025
+      -
+      -
+      - PAAC: Path-aware Access Control
+      - Jonghoon Kwon (ETH Zurich)
+      -
