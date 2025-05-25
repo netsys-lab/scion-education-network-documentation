@@ -137,19 +137,19 @@ We keep an archive of past SCION research meetings:
       - `SCION Help <https://scion-help.ovgu.de/>`__
     * - 15.04.2025
       - `MP4 <https://drive.google.com/file/d/1DRxcSP8niqf2Iz2uGC8NJDNiVLF_lmrq/view>`__
-      -
+      - `PDF <https://drive.google.com/file/d/1EyBCkOuso2g1iUWK4TMQmqTtTBAaXYVv/view>`__
       - SCION Standardization
       - SCION Association
       - `scion.org <https://scion.org>`__
     * - 29.04.2025
       - `MP4 <https://drive.google.com/file/d/1Gwb-j9H4mPd69AM12pwlCsUyiq2GkQWP/view>`__
-      -
+      - `PDF <https://drive.google.com/file/d/1LZVL9T3Zivb0eo40GfvAI6fW1kIV1nU5/view>`__
       - Use of Reinforcement Learning for the purpose of Path Selection
       - Mazahir Hussain (KISTI)
       -
     * - 13.05.2025
       - `MP4 <https://drive.google.com/file/d/14HQ5kq6fB-yZ8UrYmC87RMtH7OW8b6KB/view>`__
-      -
+      - `PDF <https://drive.google.com/file/d/1y0RgHhB3wOl0bawBBk1g9flvaauAnBAn/view>`__
       - PAAC: Path-aware Access Control
       - Jonghoon Kwon (ETH Zurich)
       -
