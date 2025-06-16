@@ -1,7 +1,7 @@
-Join the Network
+Join
 =======================================
 
-To join the SCION Education, Research and Academic, there are several possibilities depending on your location:
+To join the SCIERA infrastructure, there are several possibilities depending on your location:
 
 Connect to GEANT (EU)
 ----------------
