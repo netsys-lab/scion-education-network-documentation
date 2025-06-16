@@ -1,4 +1,4 @@
-Join
+Join SCIERA
 =======================================
 
 To join the SCIERA infrastructure, there are several possibilities depending on your location:
