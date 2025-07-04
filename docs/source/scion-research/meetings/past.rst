@@ -3,7 +3,7 @@ Past Meetings
 
 We keep an archive of past SCION research meetings:
 
-.. list-table:: 
+.. list-table::
     :widths: 1 1 1 8 4 1
     :header-rows: 1
 
@@ -34,9 +34,9 @@ We keep an archive of past SCION research meetings:
     * - 20.11.2024
       - `MP4 <https://drive.google.com/file/d/1Egi5yqUoU9Jiwz9wD6SrFNyp0fo0m4JL/view>`__
       - `PDF <https://drive.google.com/file/d/1b9hhn5av6y9g6uVo_ng-SYU0pAFZhKQ5/view>`__
-      - Inter-domain Path Validation, Source Authentication, and Fine-grained Path Control  
+      - Inter-domain Path Validation, Source Authentication, and Fine-grained Path Control
       - Marc Wyss (ETH Zurich)
-      - `PDF <https://netsec.ethz.ch/publications/papers/2023_usenix_fabrid.pdf>`__, 
+      - `PDF <https://netsec.ethz.ch/publications/papers/2023_usenix_fabrid.pdf>`__,
         `Extended Version <https://arxiv.org/pdf/2304.03108>`__
     * - 26.11.2024
       -
@@ -152,4 +152,10 @@ We keep an archive of past SCION research meetings:
       - `PDF <https://drive.google.com/file/d/1y0RgHhB3wOl0bawBBk1g9flvaauAnBAn/view>`__
       - PAAC: Path-aware Access Control
       - Jonghoon Kwon (ETH Zurich)
+      -
+    * - 20.06.2025
+      - `MP4 <https://drive.google.com/file/d/1BNXVXhe2hsYH6SWS5bqDUB6NL0P1cb0q/view?usp=sharing>`__
+      - `PDF <https://drive.google.com/file/d/1xZyPAZD7RAAzUrLB55t7abmN4RW1te1A/view?usp=sharing>`__
+      - Supporting High Performance Apps over SCION
+      - Tony John (OVGU Magdeburg)
       -
