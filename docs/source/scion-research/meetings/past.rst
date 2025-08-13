@@ -159,3 +159,9 @@ We keep an archive of past SCION research meetings:
       - Supporting High Performance Apps over SCION
       - Tony John (OVGU Magdeburg)
       -
+    * - 22.07.2025
+      - `MP4 <https://drive.google.com/file/d/1NkbIb15a47w52ws0eL_fY4Ehznnr57gf/view?usp=sharing>`__
+      -
+      - Polaris: End-to-End Path Optimization by End-Hosts
+      - Elham Ehsani Moghadam (ETH Zurich)
+      -
