@@ -154,14 +154,14 @@ We keep an archive of past SCION research meetings:
       - Jonghoon Kwon (ETH Zurich)
       -
     * - 20.06.2025
-      - `MP4 <https://drive.google.com/file/d/1BNXVXhe2hsYH6SWS5bqDUB6NL0P1cb0q/view?usp=sharing>`__
-      - `PDF <https://drive.google.com/file/d/1xZyPAZD7RAAzUrLB55t7abmN4RW1te1A/view?usp=sharing>`__
+      - `MP4 <https://drive.google.com/file/d/1BNXVXhe2hsYH6SWS5bqDUB6NL0P1cb0q/view>`__
+      - `PDF <https://drive.google.com/file/d/1xZyPAZD7RAAzUrLB55t7abmN4RW1te1A/view>`__
       - Supporting High Performance Apps over SCION
       - Tony John (OVGU Magdeburg)
       -
     * - 22.07.2025
-      - `MP4 <https://drive.google.com/file/d/1NkbIb15a47w52ws0eL_fY4Ehznnr57gf/view?usp=sharing>`__
-      -
+      - `MP4 <https://drive.google.com/file/d/1NkbIb15a47w52ws0eL_fY4Ehznnr57gf/view>`__
+      - `PDF <https://drive.google.com/file/d/15S5iET0twkPEX_PRm8AL3qqiBv_kqjqo/view>`__
       - Polaris: End-to-End Path Optimization by End-Hosts
       - Elham Ehsani Moghadam (ETH Zurich)
       -
