@@ -20,7 +20,6 @@ SCIERA currently spans over five regions: EU, ASIA, North and South America, as 
   monitoring
   troubleshooting
   weblinks
-  news
 
 .. toctree::
   :maxdepth: 1
