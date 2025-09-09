@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'SCIERA'
-copyright = '2024, OVGU / ETHZ'
+copyright = '2025, OVGU / ETHZ'
 author = 'OVGU Magdeburg, ETH Zurich'
 
 release = '1.0'
