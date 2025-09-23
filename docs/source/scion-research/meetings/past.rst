@@ -165,3 +165,9 @@ We keep an archive of past SCION research meetings:
       - Polaris: End-to-End Path Optimization by End-Hosts
       - Elham Ehsani Moghadam (ETH Zurich)
       -
+    * - 26.09.2025
+      - `MP4 <https://youtu.be/9unwqHEh8Sg>`__
+      - 
+      - Hummingbird: Fast, Flexible, and Fair Inter-Domain Bandwidth Reservations
+      - Giacomo Giuliari (Mysten Labs)
+      - `PDF <https://netsec.ethz.ch/publications/papers/Hummingbird-sigcomm2025.pdf>`__
