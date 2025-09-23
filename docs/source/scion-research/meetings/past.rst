@@ -165,6 +165,12 @@ We keep an archive of past SCION research meetings:
       - Polaris: End-to-End Path Optimization by End-Hosts
       - Elham Ehsani Moghadam (ETH Zurich)
       -
+    * - 02.09.2025
+      - `MP4 <https://youtu.be/QFnf-40yvmQ>`__
+      - 
+      - Scaling SCIERA: A Journey Through the Deployment of a Next-Generation Network
+      - Jelte van Bommel (ETH Zurich)
+      - `PDF <https://netsec.ethz.ch/publications/papers/2025_Sigcomm_Scaling_SCIERA.pdf>`__
     * - 26.09.2025
       - `MP4 <https://youtu.be/9unwqHEh8Sg>`__
       - 
