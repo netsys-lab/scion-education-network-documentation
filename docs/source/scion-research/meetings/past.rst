@@ -167,13 +167,13 @@ We keep an archive of past SCION research meetings:
       -
     * - 02.09.2025
       - `MP4 <https://youtu.be/QFnf-40yvmQ>`__
-      - 
+      -
       - Scaling SCIERA: A Journey Through the Deployment of a Next-Generation Network
       - Jelte van Bommel (ETH Zurich)
       - `PDF <https://netsec.ethz.ch/publications/papers/2025_Sigcomm_Scaling_SCIERA.pdf>`__
     * - 26.09.2025
       - `MP4 <https://youtu.be/9unwqHEh8Sg>`__
-      - 
+      - `PDF <https://drive.google.com/file/d/1oiQvb0-B7UQMUAmwie8XB_FPpC3EJf_V/view>`__
       - Hummingbird: Fast, Flexible, and Fair Inter-Domain Bandwidth Reservations
       - Giacomo Giuliari (Mysten Labs)
       - `PDF <https://netsec.ethz.ch/publications/papers/Hummingbird-sigcomm2025.pdf>`__
