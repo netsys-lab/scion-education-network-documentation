@@ -183,3 +183,9 @@ We keep an archive of past SCION research meetings:
       - Hummingbird: QoS in SCION and next steps
       - Juan A. Garcia-Pardo (ETH Zurich)
       -
+    * - 11.11.2025
+      - `MP4 <https://drive.google.com/file/d/1ETMecHdDHGcxQ08igt89KhM4JXY6gM_Q/view>`__
+      - `PDF <https://drive.google.com/file/d/12fWwya7rej92yhRHHJ24cYZXYGMiKVyg/view>`__
+      - SCION Registry & Internet Draft Updates
+      - Kevin Meynell (SCION Association)
+      -
