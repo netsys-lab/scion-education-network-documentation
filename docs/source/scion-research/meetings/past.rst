@@ -177,3 +177,9 @@ We keep an archive of past SCION research meetings:
       - Hummingbird: Fast, Flexible, and Fair Inter-Domain Bandwidth Reservations
       - Giacomo Giuliari (Mysten Labs)
       - `PDF <https://netsec.ethz.ch/publications/papers/Hummingbird-sigcomm2025.pdf>`__
+    * - 24.10.2025
+      - `MP4 <https://drive.google.com/file/d/1FzV9-pM1faEOpZX7DZ5lCVqtTp_7PNmy/view>`__
+      - `PDF <https://drive.google.com/file/d/1rUIA8ogjMgXVB9NBV576mkuO2g7bsmer/view>`__
+      - Hummingbird: QoS in SCION and next steps
+      - Juan A. Garcia-Pardo
+      -
