@@ -195,3 +195,9 @@ We keep an archive of past SCION research meetings:
       - SCION-CPP
       - Lars Christian Schulz (OVGU Magdeburg)
       -
+    * - 25.11.2025
+      - `MP4 <https://drive.google.com/file/d/1fZ-nv40NeRzCH1P66bOX736yPKxDi0pd/view?usp=sharing>`__
+      - `PDF <http://deleteme.com>`__
+      - Private ISDs
+      - Tilmann Zäschke (ETH Zurich)
+      -
