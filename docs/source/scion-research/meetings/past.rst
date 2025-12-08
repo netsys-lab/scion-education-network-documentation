@@ -191,13 +191,13 @@ We keep an archive of past SCION research meetings:
       -
     * - 21.11.2025
       - `MP4 <https://drive.google.com/file/d/1MqRZP0H-3IYeCFQ6K1a7SCXRPz_JXtkB/view>`__
-      - `PDF <http://deleteme.com>`__
+      -
       - SCION-CPP
       - Lars Christian Schulz (OVGU Magdeburg)
       -
     * - 25.11.2025
-      - `MP4 <https://drive.google.com/file/d/1fZ-nv40NeRzCH1P66bOX736yPKxDi0pd/view?usp=sharing>`__
-      - `PDF <http://deleteme.com>`__
+      - `MP4 <https://drive.google.com/file/d/1fZ-nv40NeRzCH1P66bOX736yPKxDi0pd/view>`__
+      - `PDF <https://drive.google.com/file/d/12I_7XmJ7IsCnzKPWXsuB1E3vrTBUVNr0/view>`__
       - Private ISDs
       - Tilmann Zäschke (ETH Zurich)
       -
