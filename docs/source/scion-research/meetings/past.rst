@@ -201,3 +201,9 @@ We keep an archive of past SCION research meetings:
       - Private ISDs
       - Tilmann Zäschke (ETH Zurich)
       -
+    * - 16.01.2026
+      - `MP4 <https://drive.google.com/file/d/1-QsV-CpbZhcofMQPOEAM3XnM8gzTdD0F/view>`__
+      - `PDF <https://drive.google.com/file/d/1-e6pS9DBFcwhZzhiEcqlT5-xkxaViLIO/view>`__
+      - Who's afraid of Routing Protocols?
+      - João Luís Sobrinho (University of Lisbon)
+      -
