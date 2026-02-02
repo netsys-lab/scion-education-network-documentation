@@ -201,9 +201,33 @@ We keep an archive of past SCION research meetings:
       - Private ISDs
       - Tilmann Zäschke (ETH Zurich)
       -
+    * - 05.12.2025
+      - 
+      - 
+      - SCION Multipath / PAN transport (de)mux
+      - Tony John (OVGU Magdeburg)
+      -
+    * - 09.12.2025
+      - 
+      - 
+      - SCION on LoRa
+      - Juan A. Garcia-Pardo (ETH Zurich)
+      -
     * - 16.01.2026
       - `MP4 <https://drive.google.com/file/d/1-QsV-CpbZhcofMQPOEAM3XnM8gzTdD0F/view>`__
       - `PDF <https://drive.google.com/file/d/1-e6pS9DBFcwhZzhiEcqlT5-xkxaViLIO/view>`__
       - Who's afraid of Routing Protocols?
       - João Luís Sobrinho (University of Lisbon)
+      -
+    * - 20.01.2026
+      - 
+      - 
+      - SCION path negotiation: client/server indicates how to select path
+      - Jonghoon Kwon (ETH Zurich)
+      -
+    * - 30.01.2026
+      - 
+      - 
+      - SCITRA: The SCION-IP Translator
+      - Lars-Christian Schulz (OVGU Magdeburg)
       -
