@@ -231,3 +231,9 @@ We keep an archive of past SCION research meetings:
       - SCITRA: The SCION-IP Translator
       - Lars-Christian Schulz (OVGU Magdeburg)
       -
+    * - 03.02.2026
+      - 
+      - 
+      - SCION and PAN Multicast
+      - Marten Gartner (OVGU Magdeburg)
+      -
