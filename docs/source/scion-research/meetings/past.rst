@@ -204,13 +204,13 @@ We keep an archive of past SCION research meetings:
     * - 05.12.2025
       - 
       - 
-      - SCION Multipath / PAN transport (de)mux
+      - [Open Discussion] SCION Multipath / PAN transport (de)mux
       - Tony John (OVGU Magdeburg)
       -
     * - 09.12.2025
       - 
       - 
-      - SCION on LoRa
+      - [Open Discussion] SCION on LoRa
       - Juan A. Garcia-Pardo (ETH Zurich)
       -
     * - 16.01.2026
@@ -222,7 +222,7 @@ We keep an archive of past SCION research meetings:
     * - 20.01.2026
       - 
       - 
-      - SCION path negotiation: client/server indicates how to select path
+      - [Open Discussion] SCION path negotiation: client/server indicates how to select path
       - Jonghoon Kwon (ETH Zurich)
       -
     * - 30.01.2026
