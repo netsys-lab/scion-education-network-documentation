@@ -12,7 +12,7 @@ We keep an archive of past SCION research meetings:
       - Slides
       - Title
       - Presenter
-      - Paper
+      - Paper / Other
     * - 29.10.2024
       - `MP4 <https://drive.google.com/file/d/1btYMlRqtiO-QSQoB0tqnj2JsH5bv7Sqq/view>`__
       - `PDF <https://drive.google.com/file/d/1EsU64cbgbanKzczgUaiwoDWMgtrrNAwQ/view>`__
@@ -202,14 +202,14 @@ We keep an archive of past SCION research meetings:
       - Tilmann Zäschke (ETH Zurich)
       -
     * - 05.12.2025
-      - 
-      - 
+      -
+      -
       - [Open Discussion] SCION Multipath / PAN transport (de)mux
       - Tony John (OVGU Magdeburg)
       -
     * - 09.12.2025
-      - 
-      - 
+      -
+      -
       - [Open Discussion] SCION on LoRa
       - Juan A. Garcia-Pardo (ETH Zurich)
       -
@@ -220,20 +220,20 @@ We keep an archive of past SCION research meetings:
       - João Luís Sobrinho (University of Lisbon)
       -
     * - 20.01.2026
-      - 
-      - 
+      -
+      -
       - [Open Discussion] SCION path negotiation: client/server indicates how to select path
       - Jonghoon Kwon (ETH Zurich)
       -
     * - 30.01.2026
-      - 
-      - 
+      - `MP4 <https://drive.google.com/file/d/13u-StR_R_axdQL9v8kYVB0cHjuWnS6Iw/view?usp=sharing>`__
+      -
       - SCITRA: The SCION-IP Translator
       - Lars-Christian Schulz (OVGU Magdeburg)
-      -
+      - `code <https://lcschulz.de/software/scitra-tun/>`__
     * - 03.02.2026
-      - 
-      - 
+      -
+      -
       - SCION and PAN Multicast
       - Marten Gartner (OVGU Magdeburg)
       -
