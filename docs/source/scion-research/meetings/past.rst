@@ -226,13 +226,13 @@ We keep an archive of past SCION research meetings:
       - Jonghoon Kwon (ETH Zurich)
       -
     * - 30.01.2026
-      - `MP4 <https://drive.google.com/file/d/13u-StR_R_axdQL9v8kYVB0cHjuWnS6Iw/view?usp=sharing>`__
+      - `MP4 <https://drive.google.com/file/d/13u-StR_R_axdQL9v8kYVB0cHjuWnS6Iw/view>`__
       -
       - SCITRA: The SCION-IP Translator
       - Lars-Christian Schulz (OVGU Magdeburg)
       - `code <https://lcschulz.de/software/scitra-tun/>`__
     * - 03.02.2026
-      -
+      - `MP4 <https://drive.google.com/file/d/1y_pM78RG8n4VWaeuclBGdfuVHoMBMo0H/view>`__
       -
       - SCION and PAN Multicast
       - Marten Gartner (OVGU Magdeburg)
