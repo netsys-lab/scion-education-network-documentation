@@ -237,3 +237,9 @@ We keep an archive of past SCION research meetings:
       - SCION and PAN Multicast
       - Marten Gartner (OVGU Magdeburg)
       -
+    * - 13.03.2026
+      - `MP4 <https://drive.google.com/file/d/1Rxv0g-wWsxZKrWhDtSYiihWBe4d42F5F/view>`__
+      - `PDF <https://drive.google.com/file/d/18EcUnSbZmj7k4RHPOCKjR5aQAVIb2Sa-/view>`__
+      - Securing Domain Control Validation Through SCION
+      - Cyrill Krähenbühl (ETH Zurich)
+      -
