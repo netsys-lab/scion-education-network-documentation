@@ -243,3 +243,9 @@ We keep an archive of past SCION research meetings:
       - Securing Domain Control Validation Through SCION
       - Cyrill Krähenbühl (Princeton University)
       -
+    * - 17.03.2026
+      - `MP4 <https://drive.google.com/file/d/1TVTs0-3MR9y5X3DytkxkZmRCjBrduSV_/view>`__
+      - `PDF <https://drive.google.com/file/d/1hH5poizT0uNB4346caXumUuVrxsZd5-K/view>`__
+      - SCION in Automation Technology and Smart Energy
+      - Aaron Bojarski (ETH Zurich)
+      -
