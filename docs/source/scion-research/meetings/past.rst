@@ -249,3 +249,9 @@ We keep an archive of past SCION research meetings:
       - SCION in Automation Technology and Smart Energy
       - Aaron Bojarski (ETH Zurich)
       -
+    * - 27.03.2026
+      -
+      -
+      - [Open Discussion] Use of QoS with partial knowledge about endhost
+      - Maciej Byczko (ETH Zurich)
+      -
