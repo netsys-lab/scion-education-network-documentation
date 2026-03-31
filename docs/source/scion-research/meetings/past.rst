@@ -255,3 +255,9 @@ We keep an archive of past SCION research meetings:
       - [Open Discussion] Use of QoS with partial knowledge about endhost
       - Maciej Byczko (ETH Zurich)
       -
+    * - 31.03.2026
+      - `MP4 <https://drive.google.com/file/d/1T_hT3PmYra6gZtknSp8HDh2ZPAmrCfsX/view>`__
+      - `PDF <https://drive.google.com/file/d/1KPanbHASzaV3wpyuGkk785GnB2IMsLWa/view>`__
+      - SCION Endhost Infrastructure
+      - Stefan Dietiker (Anapaya)
+      -
