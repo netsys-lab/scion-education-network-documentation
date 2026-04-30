@@ -261,6 +261,12 @@ We keep an archive of past SCION research meetings:
       - SCION Endhost Infrastructure
       - Stefan Dietiker (Anapaya)
       -
+    * - 10.04.2026
+      -
+      -
+      - SCION Anycast
+      - Marco Pioppini (ETH Zurich) and Robin Wehner (OVGU Magdeburg)
+      -
     * - 24.04.2026
       - `MP4 <https://drive.google.com/file/d/1ufEyctaKB8BtfKuEeTrOE2l6E63zZr4o/view>`__
       - `PDF <https://drive.google.com/file/d/1kqgXnno4Pxe7EvE9oPp6e09YQL0Kupwh/view>`__
