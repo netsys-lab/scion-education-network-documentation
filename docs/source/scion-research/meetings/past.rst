@@ -263,7 +263,7 @@ We keep an archive of past SCION research meetings:
       -
     * - 24.04.2026
       - `MP4 <https://drive.google.com/file/d/1ufEyctaKB8BtfKuEeTrOE2l6E63zZr4o/view>`__
-      -
+      - `PDF <https://drive.google.com/file/d/1kqgXnno4Pxe7EvE9oPp6e09YQL0Kupwh/view>`__
       - SCION Tailnet
       - Tony John (OVGU Magdeburg)
       -
