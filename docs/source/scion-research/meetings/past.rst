@@ -261,3 +261,9 @@ We keep an archive of past SCION research meetings:
       - SCION Endhost Infrastructure
       - Stefan Dietiker (Anapaya)
       -
+    * - 24.04.2026
+      - `MP4 <https://drive.google.com/file/d/1ufEyctaKB8BtfKuEeTrOE2l6E63zZr4o/view>`__
+      -
+      - SCION Tailnet
+      - Tony John (OVGU Magdeburg)
+      -
