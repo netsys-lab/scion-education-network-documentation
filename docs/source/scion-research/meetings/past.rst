@@ -263,7 +263,7 @@ We keep an archive of past SCION research meetings:
       -
     * - 10.04.2026
       -
-      -
+      - `PDF <https://drive.google.com/file/d/1S17dDof3c8ggOIiDLWDYyoLq7l16Dg6k/view>`__
       - SCION Anycast
       - Marco Pioppini (ETH Zurich) and Robin Wehner (OVGU Magdeburg)
       -
