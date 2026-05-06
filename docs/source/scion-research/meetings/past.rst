@@ -262,7 +262,7 @@ We keep an archive of past SCION research meetings:
       - Stefan Dietiker (Anapaya)
       -
     * - 10.04.2026
-      -
+      - `MP4 <https://drive.google.com/file/d/1Wy8mFqPIFXoknB5pz4RNXjNTsH2-rybW/view>`__
       - `PDF <https://drive.google.com/file/d/1S17dDof3c8ggOIiDLWDYyoLq7l16Dg6k/view>`__
       - SCION Anycast
       - Marco Pioppini (ETH Zurich) and Robin Wehner (OVGU Magdeburg)
