@@ -273,3 +273,9 @@ We keep an archive of past SCION research meetings:
       - SCION Tailnet
       - Tony John (OVGU Magdeburg)
       -
+    * - 8.05.2026
+      - `MP4 <https://drive.google.com/file/d/1M9Q9Nz1JOymyeltvCUOqTmYz564ROa51/view>`__
+      -
+      - A Scalable, Source-Controlled Multicast Architecture over SCION
+      - Marten Gartner (OVGU Magdeburg)
+      -
