@@ -279,3 +279,9 @@ We keep an archive of past SCION research meetings:
       - A Scalable, Source-Controlled Multicast Architecture over SCION
       - Marten Gartner (OVGU Magdeburg)
       -
+    * - 12.05.2026
+      - `MP4 <https://drive.google.com/file/d/1y2sD-7nfoJ-PZJm11lfdNcCPlNKameLr/view>`__
+      - `PDF <https://drive.google.com/file/d/1OSjO15sipa5QHUF1PyuDYM08cN5MjWo8/view>`__
+      - Protecting Bitcoin against BGP Hijacking
+      - Tony John (OVGU Magdeburg)
+      -
