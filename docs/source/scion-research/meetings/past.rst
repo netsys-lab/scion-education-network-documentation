@@ -285,3 +285,9 @@ We keep an archive of past SCION research meetings:
       - Protecting Bitcoin against BGP Hijacking
       - Tony John (OVGU Magdeburg)
       -
+    * - 22.05.2026
+      -
+      - `PDF <https://drive.google.com/file/d/1aFtt2pyOl6Pjw249lM6hNV73TFc93gv1/view>`__
+      - Clockwire --- Multi-path Time Synchronization Made Practical
+      - Marc Frei (ETH Zurich)
+      -
