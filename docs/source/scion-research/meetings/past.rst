@@ -303,3 +303,9 @@ We keep an archive of past SCION research meetings:
       - Marketplaces for SCION Services
       - Fabio Rentsch (ETH Zurich)
       -
+    * - 09.06.2026
+      - `MP4 <https://drive.google.com/file/d/1-krR_dc3a5mMYADobTLYATCmfICbKgPN/view>`__
+      -
+      - Signet: Scalable Network-Driven Proof of Notification for Blockchain Systems
+      - Elham Ehsani (ETH Zurich)
+      -
