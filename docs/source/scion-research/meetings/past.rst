@@ -311,7 +311,7 @@ We keep an archive of past SCION research meetings:
       -
     * - 19.06.2026
       - `MP4 <https://drive.google.com/file/d/19004P63o8L0gx2DnrkcUN2UmqnZKI9tD/view>`__
-      -
+      - `PDF <https://drive.google.com/file/d/1q-p9Dp6V2zTr-awAM2Ch2T4RzRKgv-xV/view>`__
       - QoS: How to use Hummingbird in Applications
       - Maciej Byczko (ETH Zurich)
       -
