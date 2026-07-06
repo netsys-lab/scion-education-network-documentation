@@ -291,3 +291,9 @@ We keep an archive of past SCION research meetings:
       - Clockwire --- Multi-path Time Synchronization Made Practical
       - Marc Frei (ETH Zurich)
       -
+    * - 26.05.2026
+      - `MP4 <https://drive.google.com/file/d/1TjemI4HmTNsgqb-X13YV0SaEFLcA3xvT/view?usp=sharing>`__
+      -
+      - Scitra Update: MPTCP for SCION
+      - Lars Christian Schulz (OVGU Magdeburg)
+      -
