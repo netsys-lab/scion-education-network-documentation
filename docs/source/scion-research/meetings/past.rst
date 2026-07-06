@@ -323,7 +323,7 @@ We keep an archive of past SCION research meetings:
       -
     * - 03.07.2026
       - `MP4 <https://drive.google.com/file/d/16jjaDjy9KjMt-lmwvU9Laa-YIUo5ezxC/view>`__
-      -
+      - `PDF <https://drive.google.com/file/d/1AT_bk1yzYHGoSuzDR8toaU-rv7YDCMxL/view>`__
       - SCION Association Updates
       - Kevin Meynell & Roman Scharkov (SCION Association)
       -
