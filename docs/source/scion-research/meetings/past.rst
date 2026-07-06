@@ -315,3 +315,9 @@ We keep an archive of past SCION research meetings:
       - QoS: How to use Hummingbird in Applications
       - Maciej Byczko (ETH Zurich)
       -
+    * - 23.06.2026
+      - `MP4 <https://drive.google.com/file/d/1ESfgrW2-OccMCMWHZxPtEV9w80HjMxJG/view>`__
+      -
+      - Debuglets
+      - Yi-Min Lin (ETH Zurich)
+      -
