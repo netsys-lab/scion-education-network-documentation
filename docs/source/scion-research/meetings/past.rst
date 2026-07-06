@@ -317,7 +317,7 @@ We keep an archive of past SCION research meetings:
       -
     * - 23.06.2026
       - `MP4 <https://drive.google.com/file/d/1ESfgrW2-OccMCMWHZxPtEV9w80HjMxJG/view>`__
-      -
+      - `PDF <https://drive.google.com/file/d/1dSkbTEDwYjf27JJ6sqY5d76pe9glCa25/view>`__
       - Debuglets
       - Yi-Min Lin (ETH Zurich)
       -
