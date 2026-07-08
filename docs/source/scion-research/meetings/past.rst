@@ -304,11 +304,11 @@ We keep an archive of past SCION research meetings:
       - Fabio Rentsch (ETH Zurich)
       -
     * - 09.06.2026
-      - `MP4 <https://drive.google.com/file/d/1-krR_dc3a5mMYADobTLYATCmfICbKgPN/view>`__
-      -
+      - `MP4 <https://drive.google.com/file/d/14Ij167TTANoI3YjIB7bQzcrP8YQ13KO7/view>`__
+      - `PDF <https://drive.google.com/file/d/1OunXfE1YA9TZGrs9VkSns-t13lF32Fwg/view>`__
       - Signet: Scalable Network-Driven Proof of Notification for Blockchain Systems
       - Elham Ehsani (ETH Zurich)
-      -
+      - `PDF <https://netsec.ethz.ch/publications/papers/Signet_ICDCS_2026.pdf>`__
     * - 19.06.2026
       - `MP4 <https://drive.google.com/file/d/19004P63o8L0gx2DnrkcUN2UmqnZKI9tD/view>`__
       - `PDF <https://drive.google.com/file/d/1q-p9Dp6V2zTr-awAM2Ch2T4RzRKgv-xV/view>`__
