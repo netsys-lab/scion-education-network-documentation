@@ -299,7 +299,7 @@ We keep an archive of past SCION research meetings:
       -
     * - 05.06.2026
       - `MP4 <https://drive.google.com/file/d/1-krR_dc3a5mMYADobTLYATCmfICbKgPN/view>`__
-      -
+      - `PDF <https://drive.google.com/file/d/1CbopVEC03OV2KVngWUX3KtsSlhxr14PC/view>`__
       - Marketplaces for SCION Services
       - Fabio Rentsch (ETH Zurich)
       -
