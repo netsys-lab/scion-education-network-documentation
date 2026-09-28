@@ -339,3 +339,9 @@ We keep an archive of past SCION research meetings:
       - SOPHIA
       - Adrian Perrig (ETH Zurich)
       -
+    * - 25.09.2026
+      - `MP4 <https://drive.google.com/file/d/1ywVRG-SGOebIuCT5LNHssjidozG6k7nx/view>`__
+      - `PDF <https://drive.google.com/file/d/1GR0KuofTnK8bC1Wr6_DL5NY4yG8hVycl/view>`__
+      - SCION & Happy Eyeballs and other IETF Updates
+      - Tony John (OVGU Magdeburg)
+      -
