@@ -345,3 +345,9 @@ We keep an archive of past SCION research meetings:
       - SCION & Happy Eyeballs and other IETF Updates
       - Tony John (OVGU Magdeburg)
       -
+    * - 29.09.2026
+      - `MP4 <https://drive.google.com/file/d/1uvgmKGoXzetm6WhhNzwoEwP4FaeNr-ej/view>`__
+      - `PDF <https://drive.google.com/file/d/1GB1MsvuGppOjCjTZ4fE4wK80iJJYY28-/view>`__
+      - Quantum-proofing SCION
+      - Marco Pioppini (ETH Zurich)
+      -
